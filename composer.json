@@ -1,0 +1,17 @@
+{
+    "name": "php/acl", 
+    "description": "oop acl", 
+    "authors": [
+        {
+            "name": "Rafael Felipe", 
+            "email": "manofirmz@gmail.com", 
+            "role": "Developer", 
+            "homepage": "https://github.com/manofirmz"
+        }
+    ], 
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
